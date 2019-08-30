@@ -1,3 +1,3 @@
 # docs
 Documents For KmarsHub Repositories
-Speical Thanks to @Goohle
+Speical Thanks to @Google, @CodeMirror, @GitHub, 
